@@ -87,4 +87,16 @@ Successfully implemented:
 - Target Group with health checks
 - Load distribution between two EC2 instances
 
-NavOps Academy
+------------------------------------------------------------------------
+
+## 👨‍💻 Author
+
+Rushikesh Sutar\
+DevOps Engineer
+
+Focused on Production-Ready Git Practices
+
+------------------------------------------------------------------------
+
+⭐ If this repository helped you, consider giving it a star.
+
